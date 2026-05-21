@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="100%" height="100%">
+        <rect width="100%" height="100%" fill="none" />
+        <!-- Playful Cloud with Cartoon Kids -->
+        <g transform="translate(115, 2)">
+            <path d="M12 28 C6 28, 2 24, 2 18 C2 12, 10 8, 18 12 C22 4, 38 4, 44 12 C52 8, 60 12, 60 18 C60 24, 56 28, 50 28 Z" fill="#e0f2fe" stroke="#38bdf8" stroke-width="1.5" />
+            <!-- Girl representation (left) -->
+            <circle cx="22" cy="18" r="5" fill="#fef08a" stroke="#ca8a04" stroke-width="1" />
+            <path d="M19 14 C17 18, 25 18, 25 14" fill="#fca5a5" />
+            <!-- Boy representation (right) -->
+            <circle cx="38" cy="18" r="5" fill="#bae6fd" stroke="#0284c7" stroke-width="1" />
+            <line x1="38" y1="23" x2="38" y2="27" stroke="#0284c7" stroke-width="1.5" />
+        </g>
+        <text x="150" y="68" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="900" fill="#0284c7" font-style="italic">St. Clare&apos;s</text>
+        <text x="150" y="86" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="800" fill="#db2777" letter-spacing="4">NURSERY</text>
+    </svg>

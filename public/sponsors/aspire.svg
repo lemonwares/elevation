@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="100%" height="100%">
+        <rect width="100%" height="100%" fill="none" />
+        <g transform="translate(15, 20)">
+            <!-- Sweeping blue arrow circular trail -->
+            <path d="M30 6 A24 24 0 1 0 54 30" fill="none" stroke="#1e3a8a" stroke-width="4.5" stroke-linecap="round" />
+            <polygon points="54,20 60,32 48,28" fill="#1e3a8a" />
+            <!-- Emerald shield with white cross inside -->
+            <path d="M20 20 L30 14 L40 20 V32 C40 40, 30 45, 30 45 C30 45, 20 40, 20 32 Z" fill="#10b981" />
+            <path d="M30 22 V36 M23 29 H37" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" />
+        </g>
+        <text x="90" y="54%" dominant-baseline="middle" font-family="Inter, system-ui, sans-serif" font-size="26" font-weight="900" fill="#1e3a8a" letter-spacing="0.5">ASPIRE HMO</text>
+    </svg>

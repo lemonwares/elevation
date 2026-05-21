@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="100%" height="100%">
+        <rect width="100%" height="100%" fill="none" />
+        <!-- Lagos State Sports Commission shield -->
+        <g transform="translate(15, 20)">
+            <rect x="0" y="0" width="50" height="50" rx="6" fill="#1e3a8a" stroke="#eab308" stroke-width="2.5" />
+            <circle cx="25" cy="22" r="12" fill="#ffffff" stroke="#eab308" stroke-width="1.5" />
+            <path d="M16 44 L25 36 L34 44" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" />
+        </g>
+        <text x="85" y="54%" dominant-baseline="middle" font-family="Inter, system-ui, sans-serif" font-size="34" font-weight="950" fill="#1e3a8a" letter-spacing="2">LSSC</text>
+    </svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="100%" height="100%">
+        <rect width="100%" height="100%" fill="none" />
+        <!-- Solid black block with pink crest monogram and serif LAGOS -->
+        <rect x="70" y="10" width="160" height="80" fill="#000000" rx="3" />
+        <g transform="translate(135, 18)">
+            <!-- Pink script monogram representation -->
+            <path d="M10 5 C5 5, 2 12, 10 15 C18 18, 12 28, 5 28 C2 28, 5 22, 10 22 C15 22, 12 10, 10 5 Z" fill="none" stroke="#ec4899" stroke-width="2.5" />
+            <circle cx="10" cy="5" r="2" fill="#ec4899" />
+        </g>
+        <text x="150" y="76" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="800" fill="#C29F68" letter-spacing="6">LAGOS</text>
+    </svg>

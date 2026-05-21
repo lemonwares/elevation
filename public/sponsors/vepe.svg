@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="100%" height="100%">
+        <rect width="100%" height="100%" fill="none" />
+        <!-- Multi-colored segment circle wheel -->
+        <g transform="translate(125, 2)">
+            <circle cx="25" cy="25" r="24" fill="none" stroke="#e2e8f0" stroke-width="1" />
+            <!-- Colorful segments drawing -->
+            <path d="M25 25 L25 1 A24 24 0 0 1 42 8 Z" fill="#ec4899" />
+            <path d="M25 25 L42 8 A24 24 0 0 1 49 25 Z" fill="#8b5cf6" />
+            <path d="M25 25 L49 25 A24 24 0 0 1 42 42 Z" fill="#3b82f6" />
+            <path d="M25 25 L42 42 A24 24 0 0 1 25 49 Z" fill="#10b981" />
+            <path d="M25 25 L25 49 A24 24 0 0 1 8 42 Z" fill="#a855f7" />
+            <path d="M25 25 L8 42 A24 24 0 0 1 1 25 Z" fill="#ef4444" />
+            <path d="M25 25 L1 25 A24 24 0 0 1 8 8 Z" fill="#f59e0b" />
+            <path d="M25 25 L8 8 A24 24 0 0 1 25 1 Z" fill="#eab308" />
+            <circle cx="25" cy="25" r="13" fill="#ffffff" />
+            <text x="25" y="29" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="9" font-weight="950" fill="#000000">VEPE</text>
+        </g>
+        <text x="50%" y="78" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="800" fill="#64748b" letter-spacing="4">VALUATION &amp; ESTATE</text>
+    </svg>

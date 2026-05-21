@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="100%" height="100%">
+        <rect width="100%" height="100%" fill="none" />
+        <g transform="translate(100, 2)">
+            <!-- Green circular label seal -->
+            <circle cx="50" cy="45" r="42" fill="none" stroke="#15803d" stroke-width="2" stroke-dasharray="1.5, 3" />
+            <circle cx="50" cy="45" r="38" fill="none" stroke="#15803d" stroke-width="1.5" />
+            <!-- Coffee cup representation -->
+            <path d="M38 35 H62 V52 C62 58, 56 62, 50 62 C44 62, 38 58, 38 52 Z" fill="none" stroke="#15803d" stroke-width="2.5" />
+            <path d="M62 40 H67 C70 40, 70 48, 67 48 H62" fill="none" stroke="#15803d" stroke-width="2.5" />
+            <!-- Dynamic script Lumzy -->
+            <text x="50" y="50" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="900" font-style="italic" fill="#166534">Lumzy</text>
+            <path d="M22 45 C35 30, 65 30, 78 45" fill="none" stroke="#15803d" stroke-width="1" />
+        </g>
+    </svg>

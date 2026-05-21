@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="100%" height="100%">
+        <rect width="100%" height="100%" fill="none" />
+        <g transform="translate(45, 10)">
+            <!-- Vibrant back swoosh -->
+            <path d="M5 45 C45 65, 145 25, 205 45 C155 35, 75 75, 5 45 Z" fill="#eab308" />
+            <path d="M15 42 C50 60, 140 22, 195 42 C145 32, 70 70, 15 42 Z" fill="#ea580c" />
+            <!-- Gold leaf crown -->
+            <circle cx="105" cy="12" r="3" fill="#16a34a" />
+            <path d="M95 18 Q105 12 115 18" fill="none" stroke="#16a34a" stroke-width="2.5" />
+            <text x="105" y="44" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="32" font-weight="900" font-style="italic" fill="#78350f" letter-spacing="1.5">MALTINA</text>
+        </g>
+    </svg>
