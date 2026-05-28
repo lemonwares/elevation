@@ -96,7 +96,7 @@ export default function PastorsMessage() {
             >
               {/* The Generated Portrait - Floating Cutout Design */}
               <Image
-                src="/pastor_godman.png"
+                src="/pastorgoodman.png"
                 alt="Pastor Godman Akinlabi"
                 fill
                 className="object-cover object-center pointer-events-none"
@@ -203,7 +203,7 @@ export default function PastorsMessage() {
             >
               {/* The Generated Portrait - Floating Cutout Design */}
               <Image
-                src="/pastor_kola.png"
+                src="/pastork.png"
                 alt="Pastor Kola Fayemi"
                 fill
                 className="object-cover object-center pointer-events-none"
